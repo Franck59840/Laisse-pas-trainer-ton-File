@@ -1,4 +1,4 @@
-# Laisse-pas-trainer-ton-File
+# Laisse pas trainer ton-File
 
 Commence par créér un fichier form.php
 Ecris le code du formulaire avec un input type file. Tu peux t'inspirer du formulaire plus haut.
